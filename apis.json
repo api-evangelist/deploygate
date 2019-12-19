@@ -1,0 +1,57 @@
+{
+    "name": "DeployGate",
+    "description": "Share your apps from day one - DeployGate is the fastest and easiest way to share iOS\/Android apps in development to your team members and beta testers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1404-deploygate.jpg",
+    "tags": [
+        "api provider",
+        "applications",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deploygate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DeployGate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1404-deploygate.jpg",
+            "humanURL": "https:\/\/deploygate.com\/docs\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deploygate-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deploygate-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/deploygate.com\/docs\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/deploygate"
+        },
+        {
+            "type": "Email",
+            "url": "support@deploygate.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/DeployGate"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DeployGate"
+        }
+    ]
+}
